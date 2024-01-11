@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "php",
+            "name": "php run",
+            "workingDir": "$WORKSPACE_DIR$",
+            "file": "./main.php",
+        },
+    ]
+}
